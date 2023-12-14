@@ -13,7 +13,7 @@
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellaa.nicolibuss@gmail.com)
+[![](https://img.shields.io/badge/Instagram-ff66ab)](https://www.instagram.com/gabss.nb/?next=%2F)
+[![]()](mailto:gabriellaa.nicolibuss@gmail.com)
 
 </div>
