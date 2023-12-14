@@ -8,10 +8,32 @@
     
 </pre>
 <br><br>
+
+<table class="habilidades">
+                <thead>
+                    <tr>
+                        <th>Ability</th>
+                        <th>level</th>
+                        <th>Experiences</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>HTML5</th>
+                        <td colspan="2" rowspan="3">Studying</td>
+                    </tr>
+                    <tr>
+                        <th>JavaScript</th>
+                    </tr>
+                    <tr>
+                        <th>CSS</th>
+                    </tr>
+                </tbody>
+            </table>
+            
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/Whatsapp-0031210)](https://api.whatsapp.com/send?phone=55459880557)
 [![](https://img.shields.io/badge/Instagram-ff66ab)](https://www.instagram.com/gabss.nb/?next=%2F)
 [![](https://img.shields.io/badge/Email-FF0000)](mailto:gabriellaa.nicolibuss@gmail.com)
