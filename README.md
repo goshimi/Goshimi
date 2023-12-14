@@ -12,7 +12,7 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/Whatsapp-0031210)]()
 [![](https://img.shields.io/badge/Instagram-ff66ab)](https://www.instagram.com/gabss.nb/?next=%2F)
 [![](https://img.shields.io/badge/Email-FF0000)](mailto:gabriellaa.nicolibuss@gmail.com)
 
