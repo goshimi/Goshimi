@@ -4,7 +4,8 @@
     📖 learning how to make html code
     🎮 Music • Games • Anime • Code • Art
     💼 Eron Domingues • Student • high school with vocational course
-    💻 computational logic • project and systems analysis • computer Science
+    💻 front end programming• project and systems analysis • computer Science 
+        • database • mobile programming 
     
 </pre>
 <br><br>
