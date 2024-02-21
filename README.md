@@ -35,8 +35,8 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/Whatsapp-0031210)](https://api.whatsapp.com/send?phone=55459880557)
+[![](https://img.shields.io/badge/Whatsapp-3CB371)](https://api.whatsapp.com/send?phone=55459880557)
 [![](https://img.shields.io/badge/Instagram-ff66ab)](https://www.instagram.com/gabss.nb/?next=%2F)
-[![](https://img.shields.io/badge/Email-FF0000)](mailto:gabriellaa.nicolibuss@gmail.com)
+[![](https://img.shields.io/badge/Email-B22222)](mailto:gabriellaa.nicolibuss@gmail.com)
 
 </div>
