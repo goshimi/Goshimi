@@ -2,10 +2,10 @@
 <br><br>
 <pre>
     📖 learning how to make html code
-    🎮 Music • Games • Anime • Code • Art
+    🎮 Music • Games • Anime • Art
     💼 Eron Domingues • Student • high school with vocational course
     💻 front end programming• project and systems analysis • computer Science 
-        • database • mobile programming 
+        • database • mobile programming
     
 </pre>
 <br><br>
