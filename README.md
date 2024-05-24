@@ -13,7 +13,7 @@
                 <thead>
                     <tr>
                         <th>Skills</th>
-                        <th>level</th>
+                        <th>Level</th>
                         <th>Experiences</th>
                     </tr>
                 </thead>
