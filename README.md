@@ -1,12 +1,11 @@
 <div align="center">
 <br><br>
 <pre>
-    🎮 Music • Games • Anime • Art
     📖 learning how to make html code
+    🎮 Music • Games • Anime • Art
     💼 Eron Domingues • Student • high school with vocational course
     💻 front end programming• project and systems analysis
     • computer Science • database • mobile programming
-    
 </pre>
 <br><br>
 
