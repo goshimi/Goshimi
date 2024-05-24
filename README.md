@@ -12,7 +12,7 @@
 <table class="habilidades">
                 <thead>
                     <tr>
-                        <th>Ability</th>
+                        <th>Skills</th>
                         <th>level</th>
                         <th>Experiences</th>
                     </tr>
