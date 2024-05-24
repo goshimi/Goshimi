@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0](https://i.pinimg.com/564x/86/7b/1d/867b1d94bcbe361390e98c96d326378c.jpg)" width="25%" align="right" />    
+<img src="https://i.pinimg.com/564x/6f/60/55/6f605533fcea3b930dc6386957f4b762.jpg" width="25%" align="right" />    
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Art
