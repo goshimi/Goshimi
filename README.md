@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Art
