@@ -1,4 +1,3 @@
-<div align="">
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Art
@@ -9,6 +8,7 @@
 </pre>
 <br><br>
 
+<div align="center">
 <table class="habilidades">
                 <thead>
                     <tr>
