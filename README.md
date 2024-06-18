@@ -1,6 +1,6 @@
 <div align="center">
 <img scr="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DA96A&random=false&width=435&lines=Hello!+I'm+Gabriella%2C+welcome!;+I'm+a+technology+student" alt="Typing SVG" width="35%">
-<img src="https://i.pinimg.com/564x/6f/60/55/6f605533fcea3b930dc6386957f4b762.jpg" width="250px" height="600px" align="right" />    
+<img src="https://i.pinimg.com/564x/6f/60/55/6f605533fcea3b930dc6386957f4b762.jpg" width="300px" height="600px" align="right" />    
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Art
