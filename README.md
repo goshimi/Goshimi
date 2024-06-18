@@ -37,7 +37,7 @@
             </table>
  <br>    
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br>
+<br><br><br>
     
 [![](https://img.shields.io/badge/Whatsapp-3CB371)](https://api.whatsapp.com/send?phone=55459880557)
 [![](https://img.shields.io/badge/Instagram-ff66ab)](https://www.instagram.com/gabss.nb/?next=%2F)
