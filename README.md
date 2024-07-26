@@ -21,17 +21,17 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <th>HTML5</th>
+                        <th>CSS</th>
                         <td colspan="2" rowspan="4">Studying</td>
                     </tr>
                     <tr>
-                        <th>JavaScript</th>
+                        <th>HTML5</th>
                     </tr>
                     <tr>
                         <th>PHP7</th>
                     </tr>
                     <tr>
-                        <th>CSS</th>
+                        <th>PostgreSQL</th>
                     </tr>
                 </tbody>
             </table>
