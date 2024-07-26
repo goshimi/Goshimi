@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     🎮 Music • Games • Anime • Art
-    📖 learning how to make html code
+    📖 Learning to program in PHP
     💼 Eron Domingues • Student • high school with vocational course
     💻 front end programming • project and systems analysis
     • computer Science • database • mobile programming
